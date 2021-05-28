@@ -26,3 +26,7 @@ There are several ways it can be tested.
 1) Playing with dimensions of source and destination images (greater, less)
 2) Playing with different aspect ratios of the ones either
 3) Combining (1) and (2)! :-)
+
+05 ISSUES
+=========
+The web applications does not work in Google Chrome due to its security checks (related to CORS?)
