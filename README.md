@@ -30,3 +30,4 @@ There are several ways it can be tested.
 05 ISSUES
 =========
 The web applications does not work in Google Chrome due to its security checks (related to CORS?)
+Upd. No worries! It was caused by the ad blocker! ;-)
